@@ -6,4 +6,4 @@
   * Snake Game v2.0
   * Mile to kilometer Converter
   * Pomodoro
-  * Password Generator App v1.0 
+  * Password Generator App v3.0
