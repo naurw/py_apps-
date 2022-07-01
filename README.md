@@ -8,4 +8,5 @@
   * Pomodoro
   * Password Generator App v3.0
   * Kanye Quote Generator 
+* SMTP 
   * Automated Email Notifications 
