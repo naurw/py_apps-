@@ -7,3 +7,5 @@
   * Mile to kilometer Converter
   * Pomodoro
   * Password Generator App v3.0
+  * Kanye Quote Generator 
+  * Automated Email Notifications 
