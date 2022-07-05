@@ -11,3 +11,5 @@
   * Pop Quiz v2.0 
 * SMTP 
   * Automated Email Notifications 
+* Automation
+  * SMS weather alerts 
