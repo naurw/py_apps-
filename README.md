@@ -13,3 +13,4 @@
   * Automated Email Notifications 
 * Automation
   * SMS weather alerts 
+  * SPY alerts 
