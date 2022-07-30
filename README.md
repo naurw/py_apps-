@@ -14,3 +14,5 @@
 * Automation
   * SMS weather alerts 
   * SPY alerts 
+* Website 
+ * CV 
