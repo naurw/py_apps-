@@ -16,5 +16,7 @@
   * Stock Alerts
     * SPY 
     * TSLA 
-* Website 
-  * CV 
+* API 
+  * Spotify Time Machine 
+* Portfolio 
+  * CV Website 
