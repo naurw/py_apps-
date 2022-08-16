@@ -13,6 +13,8 @@
   * Automated Email Notifications 
 * Automation
   * Weather Forecast Alerts  
-  * SPY ETF Stock Alerts  
+  * Stock Alerts
+    * SPY 
+    * TSLA 
 * Website 
   * CV 
