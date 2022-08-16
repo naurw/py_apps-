@@ -1,6 +1,13 @@
 # 🐍
 
 #### Table of Contents 
+* Automation
+  * Weather Forecast Alerts  
+  * Stock Alerts
+    * SPY 
+    * TSLA 
+* API 
+  * Spotify Time Machine 
 * GUI Apps 
   * Turtle Crossing 
   * Snake Game v2.0
@@ -9,14 +16,8 @@
   * Password Generator App v3.0
   * Kanye Quote Generator 
   * Pop Quiz v2.0 
-* SMTP 
-  * Automated Email Notifications 
-* Automation
-  * Weather Forecast Alerts  
-  * Stock Alerts
-    * SPY 
-    * TSLA 
-* API 
-  * Spotify Time Machine 
 * Portfolio 
   * CV Website 
+* SMTP 
+  * Automated Email Notifications 
+
