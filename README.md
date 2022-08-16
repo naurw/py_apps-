@@ -11,7 +11,7 @@
   * Pop Quiz v2.0 
 * SMTP 
   * Automated Email Notifications 
-* SMS Automation
+* Automation
   * Weather Forecast Alerts  
   * SPY ETF Stock Alerts  
 * Website 
