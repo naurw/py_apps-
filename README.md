@@ -1,5 +1,5 @@
 # 🐍
-
+### https://naurw.github.io/about_me/
 #### Table of Contents 
 * Automation
   * Weather Forecast Alerts  
@@ -7,7 +7,7 @@
     * SPY 
     * TSLA 
 * API 
-  * Spotify Time Machine 
+  * Spotify Time Machine
 * GUI Apps 
   * Turtle Crossing 
   * Snake Game v2.0
