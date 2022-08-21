@@ -1,13 +1,14 @@
 # 🐍
 ### https://naurw.github.io/about_me/
-#### Table of Contents 
+### Table of Contents 
 * Automation
   * Weather Forecast Alerts  
   * Stock Alerts
     * SPY 
     * TSLA 
-* API 
+* API + Webscraping
   * Spotify Time Machine
+  * Amazon Price Tracker  
 * GUI Apps 
   * Turtle Crossing 
   * Snake Game v2.0
