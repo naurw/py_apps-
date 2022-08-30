@@ -7,7 +7,7 @@
     * SPY 
     * TSLA 
 * API + Webscraping
-  * Spotify Time Machine
+  * Spotify Time Machine: Music Therapy 
   * Amazon Price Tracker  
 * GUI Apps 
   * Turtle Crossing 
