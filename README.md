@@ -8,7 +8,9 @@
     * TSLA 
 * API + Webscraping
   * Spotify Time Machine: Music Therapy 
-  * Amazon Price Tracker  
+  * Amazon Price Tracker
+    * Beautiful Soup v1.0 
+    * Selenium v2.0 
 * GUI Apps 
   * Turtle Crossing 
   * Snake Game v2.0
